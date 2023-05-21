@@ -1,0 +1,11 @@
+{
+    "name": "autocaptch",
+    "version": "1.0.0",
+    "description": "autfill 2Captcha",
+    "manifest_version": 3,
+    "author": "Nikitas Menounos",
+    "action":{
+        "default_popup": "main.htm",
+        "default_title": "Captcha"
+    }
+}
